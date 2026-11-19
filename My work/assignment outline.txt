@@ -1,0 +1,147 @@
+Overall Working Method
+
+I tell you exactly what to do
+You complete that step
+You report back
+Only then we move forward
+
+No skipping steps.
+
+Phase 0 — Setup (Foundation)
+Goal: Make sure you have the tools ready.
+You will need:
+
+Google Colab
+GitHub account
+Basic folder structure
+
+We will do:
+
+One Colab notebook per section
+One GitHub repository for everything
+
+
+Phase 1 — Understand the Problem (No coding)
+Goal: Know what we are solving before touching data.
+Tasks:
+
+Identify:
+
+What NorthStar’s problems are
+Why normal reporting fails
+
+
+Write:
+
+1-page problem explanation (plain English)
+
+
+
+This becomes your Introduction section.
+
+Phase 2 — Understand the Data (Still easy)
+Goal: Know what data exists.
+Tasks:
+
+List all provided datasets
+For each dataset:
+
+What does one row mean?
+What is each column about? (high level)
+
+
+
+No analysis yet.
+
+Phase 3 — Very Basic Databases (Relational idea)
+Goal: Learn the absolute minimum about tables and keys.
+Concepts we will cover:
+
+Table
+Row, column
+Primary key (ID)
+Foreign key (link)
+
+Then:
+
+Decide which datasets link together
+
+
+Phase 4 — SQL Queries inside R (Beginner-safe)
+Goal: Get marks without complexity.
+You will:
+
+Load CSVs into R
+Run simple SQL queries
+
+COUNT
+GROUP BY
+WHERE
+
+
+Answer business questions like:
+
+Which city has most delays?
+Which hubs perform worst?
+
+
+
+No advanced SQL.
+
+Phase 5 — R Analytics & Graphs
+Goal: Turn numbers into insights.
+You will:
+
+Create simple charts
+Compare cities, hubs, routes
+Explain patterns in words
+
+This section is about interpretation, not maths.
+
+Phase 6 — Python Analysis (Structured, guided)
+Goal: Go deeper using Python.
+You will:
+
+Load same data in pandas
+Merge datasets
+Spot issues like:
+
+High complaints + high “completed” jobs
+Underperforming hubs
+
+
+
+Everything guided line by line.
+
+Phase 7 — MongoDB (Designed for beginners)
+Goal: Handle complaints, exceptions, events.
+You will:
+
+Learn what a “document” is
+Build one or two collections
+Insert data using Python
+Query nested data
+
+No theory overload.
+
+Phase 8 — Query Optimisation (Marks-focused)
+Goal: Easy marks with minimal effort.
+You will:
+
+Add indexes
+Show query speed improvement
+Explain it simply
+
+
+Phase 9 — Write the Report
+Goal: Turn work into marks.
+We will:
+
+Fill each section clearly
+Use screenshots and outputs
+Align to marking rubric
+
+
+Important Rule
+You do nothing ahead of instructions.
+We move in order.
